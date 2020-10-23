@@ -6,7 +6,7 @@ You'll need an empty page with the URL yoursite.com/verify/ that builds on a tem
 Next, add this code to your theme's functions.php:
 
 
-now check funtion.php file >>>> 
+now check funtion.js file >>>> 
 
 
 
